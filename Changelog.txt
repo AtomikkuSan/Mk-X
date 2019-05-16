@@ -1,5 +1,6 @@
 1.0.0.x
 	Merged in @MeCripp's changes for the cargo bay
+	Changed category to Payload for the cargo bay
 
 
 TODO
@@ -7,3 +8,4 @@ TODO
 	Add .version file
 
 Update descriptions regarding the "Mk2" shuttle
+Convert png to dds
