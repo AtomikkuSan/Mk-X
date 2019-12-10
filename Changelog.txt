@@ -1,3 +1,7 @@
+ChangeLog
+0.1.0
+	Updated for KSP 1.8
+
 0.0.2
 	Merged in @MeCripp's changes for the cargo bay
 	Changed category to Payload for the cargo bay
