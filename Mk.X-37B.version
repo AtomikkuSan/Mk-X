@@ -1,6 +1,6 @@
 {
   "NAME": "Mk.X-37B",
-  "URL": "http://ksp.spacetux.net/avc/Mk-X",
+  "URL": "http://ksp.spacetux.net/avc/Mk.X-37B",
   "DOWNLOAD": "https://github.com/linuxgurugamer/Mk-X/releases",
   "GITHUB": {
     "USERNAME": "linuxgurugamer",
@@ -10,7 +10,7 @@
     "MAJOR": 0,
     "MINOR": 1,
     "PATCH": 0,
-    "BUILD": 0
+    "BUILD": 1
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,

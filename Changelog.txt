@@ -1,4 +1,8 @@
 ChangeLog
+
+0.1.0.1
+    Fixed URL in .version file
+    
 0.1.0
 	Updated for KSP 1.8
 
@@ -12,3 +16,4 @@ ChangeLog
 
 	Update descriptions regarding the "Mk2" shuttle
 	Convert png to dds
+
