@@ -1,5 +1,9 @@
 ChangeLog
 
+0.1.1
+    Fixed node sizes and added missing fields
+    Added back the x-37_cargoBay, and deprecated the X-37_cargoBay
+
 0.1.0.1
     Fixed URL in .version file
     
