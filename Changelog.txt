@@ -1,5 +1,15 @@
 ChangeLog
 
+0.1.2
+	Thanks to github user AtomikkuSan for these:
+		Update CONFIG_X-37B_LFO.cfg
+		Update CONFIG_X-37B_RCS.cfg
+		Create CONFIG_X-37B_LqfOx_RCS.cfg
+		Update CONFIG_X-37B_cargoBay.cfg
+		Update CONFIG_X-37B_droneCore.cfg
+		Create MM_New_Wings.cfg
+		Create CONFIG_X-37B_crewModule.cfg
+		
 0.1.1
     Fixed node sizes and added missing fields
     Added back the x-37_cargoBay, and deprecated the X-37_cargoBay
