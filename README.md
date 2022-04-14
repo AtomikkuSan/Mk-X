@@ -1,9 +1,9 @@
-Mk-X SPACEPLANE PARTS PACK for KSP 1.2.0.
+Mk-X SPACEPLANE PARTS PACK for KSP 1.12.x.
 X-37b Inspired Spaceplane System.
 ==========
-Version 1.0.0
+Version 0.1.3
 ==========
-A Kerbal Space Program parts pack created by Benjee10.
+A Kerbal Space Program parts pack created by Benjee10 and maintained by LinuxGuruGamer.
 ==========
 
 INTRODUCTION
@@ -15,17 +15,5 @@ At this point the parts have not been completely balanced for gameplay within ca
 INSTALLATION
 
 Drop the 'Benjee10_X-37B' folder inside your GameData directory. 
-
-PARTS LIST
-
-- Mk-X Aerodynamic Drone Core
-- Mk-X Integrated Reaction Control System
-- Mk-X Cargo Bay
-- Mk-X LFO Tank
-
-CHANGELOG
-
-1.0.0
-Initial release. 
 
 License: CC BY-NC 4.0.
